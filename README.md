@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puelmaspa es mi empresa trabajo como HeadHunter de  IT.
+- 👋 Hi, I’m @puelmaspa (Gustavo Puelma) soy HeadHunter de  IT.
 - 👀 I’m interested in perfiles de candidatos en area IT, desarrolladores.
 - 🌱 I’m currently learning ... JS.
 - 💞️ I’m looking to collaborate on ... UI interface
